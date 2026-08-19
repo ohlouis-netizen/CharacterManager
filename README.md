@@ -1,4 +1,6 @@
 # Check release for the tool
+https://github.com/Daleths/CharacterManager/releases/tag/v1.0
+
 # For reverse engineer, please download the PDB
 
 # Description
