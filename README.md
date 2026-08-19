@@ -8,6 +8,8 @@ Remember to backup your save, This tool will create a backup save at DragonSword
 
 # Installation instructions
 You simply need to place the CharacterManager.exe file in the game's installation folder; it will read and process your save data without altering any of the game's assets.
+<img width="830" height="274" alt="screenshot" src="https://github.com/user-attachments/assets/e642ba7f-b81a-4618-920a-cb0c49aa6efb" />
+
 Easy Tutorial: https://youtu.be/e4FR9m1Zcjg
 
 # Main features
