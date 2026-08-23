@@ -2,9 +2,9 @@
 https://github.com/Daleths/CharacterManager/releases
 
 # Description
+
 ALWAYS BACKUP YOUR SAVE DATA, PLEASE
-This file is currently quarantined by Nexusmods, please consider checking my github for the release 
-https://github.com/Daleths/CharacterManager/releases
+
 Allow you to edit your equipment, manual select main / sub stats so that less lucky dude out there can finish their build.
 Also, the tool has build-in character manager, allow user to unlock every characters.
 # Installation instructions
