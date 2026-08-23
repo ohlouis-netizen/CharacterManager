@@ -1,5 +1,5 @@
 # Check release for the tool
-https://github.com/Daleths/CharacterManager/releases/tag/v1.0
+https://github.com/Daleths/CharacterManager/releases
 
 # For reverse engineer, please download the PDB
 
